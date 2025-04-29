@@ -2,7 +2,7 @@
 
 This script allows your PD/EMS/FD to shutdown a set area and make all peds come to a stop! Will you keep letting AI run you over, or will you shutdown the area?
 
-# Demo: 
+# Demo: https://youtu.be/Znjhh4zxJDI
 
 # Requirements
 - SDC_CORE (NEEDED)
